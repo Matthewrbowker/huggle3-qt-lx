@@ -2,6 +2,7 @@
 # See ./travis/* for the actual scripts that get run
 
 language: cpp
+sudo: required
 
 env:
   - THENEEDFORTHIS=FAIL
